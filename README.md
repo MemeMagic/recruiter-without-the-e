@@ -1,13 +1,13 @@
 # Recruiter-without-the-e
 
 ## Developing
-```
+```sh
 # Install npm_modules
-$npm install
+$ npm install
 # Start the express server
-$npm start
+$ npm start
 # Run a specific service
-$node services/[filename].js
+$ node services/[filename].js
 ```
 ### Private Keys
 Keys should be managed using dotenv.
